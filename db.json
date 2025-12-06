@@ -11,7 +11,7 @@
         "Java",
         "MySQL"
       ],
-      "image": "./img/banshi.png",
+      "image": "https://raw.githubusercontent.com/shahmohsiin/shahmohsiiin-db/refs/heads/main/img/banshi.PNG",
       "link": "https://github.com/shahmohsiin/banshi-frontend"
     },
     {
@@ -24,7 +24,7 @@
         "MongoDB",
         "Firebase"
       ],
-      "image": "./img/o2.png",
+      "image": "https://raw.githubusercontent.com/shahmohsiin/shahmohsiiin-db/refs/heads/main/img/o2app.png",
       "link": "o2server.web.app"
     },
     {
@@ -36,7 +36,7 @@
         "Node.js",
         "MongoDB"
       ],
-      "image": "./img/opennotes.png",
+      "image": "https://raw.githubusercontent.com/shahmohsiin/shahmohsiiin-db/refs/heads/main/img/opennotes.png",
       "link": "https://open-notes-kappa.vercel.app/login"
     }
   ]
